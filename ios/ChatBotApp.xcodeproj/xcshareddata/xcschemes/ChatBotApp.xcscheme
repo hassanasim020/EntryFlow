@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ChatBotApp.app"
-               BlueprintName = "ChatBotApp"
-               ReferencedContainer = "container:ChatBotApp.xcodeproj">
+               BuildableName = "EntryFlow.app"
+               BlueprintName = "EntryFlow"
+               ReferencedContainer = "container:EntryFlow.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ChatBotAppTests.xctest"
-               BlueprintName = "ChatBotAppTests"
-               ReferencedContainer = "container:ChatBotApp.xcodeproj">
+               BuildableName = "EntryFlowTests.xctest"
+               BlueprintName = "EntryFlowTests"
+               ReferencedContainer = "container:EntryFlow.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ChatBotApp.app"
-            BlueprintName = "ChatBotApp"
-            ReferencedContainer = "container:ChatBotApp.xcodeproj">
+            BuildableName = "EntryFlow.app"
+            BlueprintName = "EntryFlow"
+            ReferencedContainer = "container:EntryFlow.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ChatBotApp.app"
-            BlueprintName = "ChatBotApp"
-            ReferencedContainer = "container:ChatBotApp.xcodeproj">
+            BuildableName = "EntryFlow.app"
+            BlueprintName = "EntryFlow"
+            ReferencedContainer = "container:EntryFlow.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
